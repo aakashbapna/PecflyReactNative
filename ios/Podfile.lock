@@ -1,0 +1,18 @@
+PODS:
+  - Crashlytics (3.3.4)
+  - Fabric (1.5.5):
+    - Fabric/Base (= 1.5.5)
+  - Fabric/Base (1.5.5)
+  - GoogleMaps (1.10.3)
+
+DEPENDENCIES:
+  - Crashlytics
+  - Fabric
+  - GoogleMaps
+
+SPEC CHECKSUMS:
+  Crashlytics: 41c082440d2e14da444186fff65e79c0b4b35d4c
+  Fabric: 190bf1a6eb65f7500de1347d027d2e59a7e53db1
+  GoogleMaps: 945e4ac3b74bcca3ddada51df256eb7beddb474d
+
+COCOAPODS: 0.38.2
